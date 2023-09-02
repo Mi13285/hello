@@ -1,0 +1,55 @@
+p { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+    font-weight: 700;
+    font-size: medium;
+    width: 50vw;
+    height: 100%;
+    
+}
+    
+p{ width: 700px;
+    color:rgba(255, 69, 0);
+    font-weight: 700;
+    line-height: normal;
+
+       
+}
+h1{
+    color: rgba(255, 0, 0)
+    
+}
+
+.li{
+    font-weight: 700;
+    font-style: italic;
+    font-family: fantasy;
+    color: rgba(0, 0, 0);
+    background-image: none;
+    background: chartreuse;
+
+}
+.lang{
+    color: rgba(70, 130, 180)
+    
+
+}
+.bad{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: rgba(0, 0, 0);
+}
+.horor{
+    color:#000000;
+}
+.horor2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+}
+.pop{
+    text-align: right;
+    letter-spacing: 10px;
+    color: black;
+    border: 5px solid red;
+    border-radius: 15px;
+
+}
