@@ -1,0 +1,24 @@
+.lupa{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+.BMW{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    border: 5px solid#000000;
+    color: rgba(0, 0, 0);
+}
+.X7{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 500px;
+    border: 5px solid#000000;
+    color: rgba(0, 0, 0);
+}
+.lop{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 600;
+    border: 5px solid#000000;
+}

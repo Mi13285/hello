@@ -1,0 +1,33 @@
+
+
+.popsa{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+h1{
+    text-align: center;
+    font-family: fantasy;
+    color: blue;
+}
+.car{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: initial;
+    color: crimson;
+}
+.car44{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: initial;
+    color: crimson;
+}
+.car55{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: initial;
+    color: rgba(220, 20, 60);
+}
+.car66{
+    font-family: monospace;
+    font-size: medium;
+    font-style: initial;
+    color: crimson;
+}
