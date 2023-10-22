@@ -1,0 +1,35 @@
+.wrapper{
+    width: 600px;
+    height: 400px;
+    background-image: url("bg.jpg");
+
+}
+.planeta{
+    position: absolute;
+  left: 60px;
+    top:60px;
+
+}
+ .planeta1{
+    position: absolute;
+    top: 23px;
+  left: 186px;
+ }   
+ .planeta2{
+    position: absolute;
+    top: 139px;
+  left: 145px;
+  z-index: 4;
+ }
+ .asteriod{
+    top: 80px;
+  right: 110px
+ }
+ .spaceship{
+    top: 155px;
+  left: 144px
+ }
+ .suprmen{
+    top: 293px;
+  left: 117px;
+ }

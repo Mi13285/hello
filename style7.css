@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box ;   
+}
+
+.sque{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    
+}
+.rectangle{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    color: orangered;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.triangel{
+    width: 80px;
+    height: 80px;
+    background-color: blue;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contenier{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
