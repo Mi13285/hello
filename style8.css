@@ -1,0 +1,34 @@
+.box{
+    background-color: blue;
+    width: 800px;
+    height: 10000px;
+    position: relative;
+
+}
+.iteam1{
+    background-color: red;
+    width: 400px;
+    height: 400px;
+     position: absolute;
+    top: 0px;
+    left:  0px;  
+    z-index: 2;
+}
+.iteam2{
+    background-color: green;
+    width: 400px;
+    height: 400px;
+    position: absolute; 
+    left: 10px;  
+    top: 10px; 
+    z-index: 3;
+    
+}
+.iteam3{
+    background-color: rgb(230, 7, 111);
+    width: 400px;
+    height: 400px;  
+     position: absolute; 
+    left: 0px;
+    top: 10px;
+}

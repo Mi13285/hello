@@ -1,0 +1,52 @@
+.wrapper{
+  position: relative;
+    width: 600px;
+    height: 400px;
+    background-image: url("bg.jpg");
+
+}
+.planeta{
+    position: absolute;
+  left: 60px;
+    top:60px;
+    z-index: 1;
+
+}
+ .planeta1{
+    position: absolute;
+    top: 23px;
+  left: 186px;
+  z-index: 2;
+
+ }   
+ .planeta2{
+    position: relative;
+    top: 139px;
+  left: 145px;
+  z-index: 3;
+ }
+ .asteriod{
+  position: fixed;
+  top: 60px;
+  left:  500px;
+  z-index: 10;
+ }
+ .spaceship{
+  position: relative;
+  bottom: 35px;
+  right: 100px;
+  z-index: 1;
+  
+ }
+ .suprmen{
+  position: relative;
+    top: 159px;
+  left: 200px;
+ }
+
+ .ufo {
+  position: absolute;
+  top: 293px;
+  left: 117px;
+  z-index: 5;
+}
